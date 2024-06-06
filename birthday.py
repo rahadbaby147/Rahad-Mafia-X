@@ -380,7 +380,7 @@ def approval():
         print("\033[1;97m[\033[1;32m+\033[1;97m] \033[1;32mYour key :\x1b[1;96m "+MTW+MTW191+key)
         print(41*'\033[1;97m—')
         name = input("\033[1;97m[\033[1;97m≈\033[1;97m] \033[1;32mYOUR NAME : ")
-        os.system("xdg-open https://wa.me/+966578146776")
+        os.system("https://raw.githubusercontent.com/rahadbaby147/R-7/main/Approval.txt-open")
 approval()
         
 #++++++++++++++APPROVAL+++++++++++++++#
